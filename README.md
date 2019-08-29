@@ -2,4 +2,4 @@
 Test  
 
 
-Checking wheter I can write
+Checking whether I can write
